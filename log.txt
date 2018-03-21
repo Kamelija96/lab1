@@ -1,0 +1,11 @@
+commit b68692f2894139d833cf23e2e1c8dfabc9590604 (HEAD -> logging, origin/master, master)
+Author: kamelija.apostolova@students.finki.ukim.mk <kamelija.apostolova@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:27:14 2018 +0100
+
+    modify l1.txt
+
+commit f240ccf630f05563cbf4f33fa4f15f233854a006
+Author: kamelija.apostolova@students.finki.ukim.mk <kamelija.apostolova@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:23:13 2018 +0100
+
+    Initial commit
